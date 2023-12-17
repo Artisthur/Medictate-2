@@ -1,0 +1,81 @@
+:root {
+    --bs-primary-rgb: 246,246,246;
+}
+
+
+
+container-fluid{
+
+
+display:flex;
+
+}
+
+href{
+
+color:aquamarine;
+
+
+}
+
+
+.navbar{
+    top:0;
+    width: 100%;
+   
+    background-image:  radial-gradient( circle 500px at 75% 40%,  rgba(191,106,140,0.01) .9%,rgba(242,242,242,0.44) 50.2% ), radial-gradient( circle 1000px at 10% 75%,rgb(98, 132, 104, 0.4) .5%,rgba(242,242,242,0.44) 50.2%  );
+position: fixed;
+
+height:10%;
+
+
+
+
+
+   
+  
+
+    
+   
+   
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+body{
+
+   
+
+    font-family:lexend;
+    
+    background-image:   url("noise.svg");
+    background-image:  radial-gradient( circle 500px at 75% 40%,  rgba(191,106,140,0.15) .9%,rgba(242,242,242,0.44) 50.2% ), radial-gradient( circle 1000px at 10% 75%,rgb(98, 132, 104, 0.4) .5%,rgba(242,242,242,0.44) 50.2%  );
+    
+    
+    margin: 0;
+        
+        background-attachment: fixed;
+        font-size: var(--bs-body-font-size);
+        font-weight: color:#BF6A8C;
+        line-height: var(--bs-body-line-height);
+        
+        text-align: var(--bs-body-text-align);
+       
+        -webkit-text-size-adjust: 100%;
+        -webkit-tap-highlight-color: transparent;
+    
+    
+    }
+    

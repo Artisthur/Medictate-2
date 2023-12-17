@@ -1,0 +1,53 @@
+body{
+
+   
+
+font-family:lexend;
+
+background-image:   url("noise.svg");
+background-image:  radial-gradient( circle 500px at 75% 40%,  rgba(191,106,140,0.15) .9%,rgba(242,242,242,0.44) 50.2% ), radial-gradient( circle 1000px at 10% 75%,rgb(98, 132, 104, 0.4) .5%,rgba(242,242,242,0.44) 50.2%  );
+
+
+margin: 0;
+    
+    background-attachment: fixed;
+    font-size: var(--bs-body-font-size);
+    font-weight: color:#BF6A8C;
+    line-height: var(--bs-body-line-height);
+    
+    text-align: var(--bs-body-text-align);
+   
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+
+
+}
+
+header {
+    background-color: #F6F6F6;
+    color:#BF6A8C;
+    
+    height: var(--header);
+    justify-content: space-evenly;
+    left: 0;
+    padding: 0 var(--padding);
+    position: fixed;
+    top: 0;
+    transition: all .25s ease;
+    width: 100%;
+    z-index: 1000;
+}
+
+
+  
+
+
+
+
+
+
+    
+    
+}
+
+

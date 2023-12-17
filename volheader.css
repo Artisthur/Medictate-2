@@ -1,0 +1,87 @@
+
+
+:root {
+    --bs-primary-rgb: 246,246,246;
+}
+
+
+
+.nav-link {
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: red;
+    text-decoration: none;
+    background: 0 0;
+    border: 0;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-—}
+
+
+    .navbar>.container-fluid{
+
+background-color: #BF6A8C;
+
+
+
+    }
+
+    .text-custom {
+        color: #ff4500; /* Remplacez cette valeur par la couleur de votre choix */
+      }
+
+
+
+
+    .navbar-nav {
+        --bs-nav-link-padding-x: 0;
+        --bs-nav-link-padding-y: 0.5rem;
+        --bs-nav-link-font-weight: ;
+        --bs-nav-link-color: var(--bs-navbar-color);
+        --bs-nav-link-hover-color: var(--bs-navbar-hover-color);
+        --bs-nav-link-disabled-color: var(--bs-navbar-disabled-color);
+        display: flex;
+        flex-direction: column;
+        padding-left: 0;
+        margin-bottom: 0;
+        list-style: none;
+        color: green;
+    }
+
+
+
+header {
+
+
+    position: fixed;
+    width:100%;
+    background-color: #F6F6F6;
+    color:#BF6A8C;
+    height:50;
+
+}
+
+.site-footer {
+    background-color: #000000;
+    padding: 45px 0 20px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #ffffff;
+
+
+
+}
+
+
+
+.hello{
+
+justify-content: left;
+height:100;
+
+}
+
+.collapse navbar-collapse{
+
+    background-color: #BF6A8C;
+}
